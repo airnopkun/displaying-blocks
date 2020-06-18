@@ -1,0 +1,40 @@
+body {
+    background-color: blanchedalmond;
+}
+
+/* HEADER */
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+}
+
+header img {
+    width: 8em;
+    height: auto;
+}
+
+/* MAIN CONTENT */
+
+#main-content {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    width: 10em;
+    margin: 10px;
+}
+
+.blue {
+    outline: black solid 5px;
+    background-color: cornflowerblue;
+    margin: 20px 10px auto;
+}
+
+.red {
+    outline: black solid 5px;
+    background-color: brown;
+    margin: 20px 10px auto;
+}
